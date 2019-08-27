@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kacper\source\repos\opengl-playground\_build\CMakeFiles\f603c0f63fa080eaeec445933eb7cc0a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{468E3FFE-DFC3-3793-9776-DABB41BFC91B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
