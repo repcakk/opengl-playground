@@ -29,6 +29,7 @@ set(GLFW_BUILD_TESTS OFF CACHE BOOL "" FORCE)
 set(GLFW_BUILD_EXAMPLES OFF CACHE BOOL "" FORCE)
 
 add_subdirectory(../glfw-3.3 _build-glfw-3.3)
+add_dependencies(opengl-demo glfw)
 
 target_link_libraries(opengl-demo _build-glfw-3.3/src/Debug/glfw3)
 
